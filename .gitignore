@@ -1,0 +1,15 @@
+node_modules
+target
+.metals
+.bloop
+.bsp
+.idea
+.vscode
+out
+dist
+.scala-build
+bun.lockb
+yarn.lock
+package-lock.json
+pnpm-lock.yaml
+.DS_Store
